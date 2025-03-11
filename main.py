@@ -11,5 +11,4 @@ from src.utils.utils import utility_function_1, utility_function_2
 # NAME = variabile standard che non va definita. 
 # eseguendo il main ritorna True.
 if __name__ == "__main__":
-
     utility_function_1()
